@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MoviesAppsSquare</string>
+    <string name="on_boarding">ONBOARDING</string>
+    <string name="watch_movies_free">Watch everything you want for free!</string>
+    <string name="enter_now">Enter Now</string>
+    <string name="search_for_content">Search for a content</string>
+    <string name="categories">Categories</string>
+    <string name="movies">Movies</string>
+</resources>
